@@ -12,6 +12,18 @@ body{
     justify-content: center;
     background-color: black;
 }
+.hola{
+    padding: 10px;
+    background-color: #23f0ff;
+    font-weight: bolder;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
+
+.hola:hover{
+    box-shadow: 1px 1px 10px#23f0ff;
+}
 .greetings{
     font-size: 6rem;
     font-weight: 900;
